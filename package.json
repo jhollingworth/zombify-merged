@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/robashton/zombify.git"
+    "url": "git@github.com:jhollingworth/zombify-merged.git"
   },
   "readme": "Go to the githubs"
 }
